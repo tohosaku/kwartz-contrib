@@ -1,0 +1,6 @@
+#!/usr/lib/env ruby
+
+require "kwartz/main"
+require "kwartz/contrib"
+
+Kwartz::Main.main(ARGV)
